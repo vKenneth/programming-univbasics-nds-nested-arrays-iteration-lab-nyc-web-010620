@@ -24,4 +24,5 @@ def total_even_pairs(src)
   # this!
 end
 
-( [ [Chicken, Steak], [Chips, Candy]....[Pasta, Ceral]])
+( [ [Steak], [Chips]....[Ceral]])
+Food = {'Steak','Chips','Ceral'}
