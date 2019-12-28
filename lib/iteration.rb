@@ -26,3 +26,5 @@ end
 
 ( [ [Steak], [Chips]....[Ceral]])
 Food = {'Steak','Chips','Ceral'}
+Food = 1x3 cell array
+    {'Steak'}    {'Chips'}    {'Ceral'}
